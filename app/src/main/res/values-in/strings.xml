@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="continue_login">Silakan masuk untuk terus menggunakan aplikasi</string>
+    <string name="empty_field">Kolom ini tidak boleh kosong!</string>
+    <string name="email_req">Email tidak valid</string>
+    <string name="password_req">Kata sandi harus 8 karakter atau lebih</string>
+    <string name="password">Kata sandi</string>
+    <string name="email">Email</string>
+    <string name="login">Masuk</string>
+    <string name="no_account">Tidak punya akun?</string>
+    <string name="register_here">Daftar disini</string>
+    <string name="yes_account">Sudah memiliki akun?</string>
+    <string name="login_here">Masuk disini</string>
+    <string name="name">Nama</string>
+    <string name="continue_register">Daftarkan diri Anda untuk membuat akun</string>
+    <string name="register">Daftar</string>
+    <string name="image_requirement">Masukkan gambar terlebih dahulu!</string>
+    <string name="no_permissions">Izin tidak diberikan.</string>
+    <string name="logout">Keluar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Mengunggah</string>
+    <string name="description">Deskripsi</string>
+    <string name="add_story">Tambahkan Cerita Baru</string>
+    <string name="empty_text">TIDAK ADA DATA</string>
+    <string name="user_name">Nama Pengguna</string>
+    <string name="language_setting">Ubah Pengaturan Bahasa</string>
+    <string name="fail_take_picture">Gagal mengambil gambar.</string>
+</resources>
